@@ -7,3 +7,7 @@ quarter,vendor,shipments_millions,market_share_pct,source_url
 2024-Q3,HP,13.6,19.6,https://my.idc.com/getdoc.jsp?containerId=prUS53855725
 2024-Q3,Dell,9.8,14.2,https://my.idc.com/getdoc.jsp?containerId=prUS53855725
 2024-Q3,Apple,6.0,8.7,https://my.idc.com/getdoc.jsp?containerId=prUS53855725
+2025-Q1,Lenovo,?,?,https://www.idc.com/resource-center/press-releases/the-pc-market-enters-volatile-2025-on-strong-results-according-to-idc/
+2025-Q1,HP,?,?,https://www.idc.com/resource-center/press-releases/the-pc-market-enters-volatile-2025-on-strong-results-according-to-idc/
+2025-Q1,Dell,?,?,https://www.idc.com/resource-center/press-releases/the-pc-market-enters-volatile-2025-on-strong-results-according-to-idc/
+2025-Q1,Apple,?,?,https://www.idc.com/resource-center/press-releases/the-pc-market-enters-volatile-2025-on-strong-results-according-to-idc/
